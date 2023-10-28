@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interpersonal neurological synchronization for the purpose of clarity.md"
+              }
             }
           }
         ]
@@ -138,9 +140,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a900ded399b62411",
+  "active": "f209965162adad76",
   "lastOpenFiles": [
-    "posts/Interpersonal neurological synchronization for the purpose of clarity.md",
-    "Interpersonal neurological synchronization for the purpose of clarity.md"
+    "private pages/Attachments/Backlinks.png",
+    "private pages/Attachments/Pasted image 10.png",
+    "private pages/Attachments/Search.png",
+    "private pages/Attachments/Vault picker.png",
+    "private pages/Attachments/Pasted image 13.png",
+    "private pages/Attachments/Pasted image 18.png",
+    "private pages/Attachments/Pasted image 5.png",
+    "private pages/Attachments/Pasted image 14.png",
+    "private pages/Attachments/Pasted image 9.png",
+    "private pages/Attachments/Engelbart.jpg",
+    "private pages/Attachments/Insider.png",
+    "private pages/Licenses & add-on services/Obsidian Publish.md",
+    "private pages/How to/Format your notes.md",
+    "private pages/Licenses & add-on services/Obsidian Sync.md",
+    "private pages/Plugins/Search.md",
+    "private pages/Obsidian/iOS app.md",
+    "private pages/Plugins/Publish.md",
+    "private pages/Obsidian/Credits.md",
+    "private pages/Start here.md",
+    "private pages/How to/Basic note taking.md",
+    "private pages/Obsidian/Obsidian.md",
+    "private pages/How to/Import data.md",
+    "private pages/Obsidian/Android app.md",
+    "private pages/Licenses & add-on services/Commercial license.md",
+    "private pages/User interface/Workspace/Panes/Pane layout.md",
+    "private pages/How to/Embed files.md",
+    "private pages/index.md",
+    "private pages/How to/Working with multiple notes.md",
+    "private pages/Licenses & add-on services/Catalyst license.md",
+    "private pages/Plugins/Graph view.md",
+    "private pages/Plugins/Note composer.md",
+    "private pages/Obsidian/Mobile app beta.md",
+    "private pages/How to/Add custom styles.md",
+    "private pages/How to/Manage attachments.md",
+    "private pages/How to/Link to blocks.md",
+    "private pages/Plugins/Templates.md",
+    "private pages/User interface/Workspace/Panes",
+    "private pages/Licenses & add-on services",
+    "private pages/User interface/Workspace",
+    "private pages/User interface",
+    "private pages/Plugins",
+    "private pages/Obsidian",
+    "private pages/How to",
+    "private pages/Customization",
+    "private pages/Attachments",
+    "private pages/Concepts"
   ]
 }
