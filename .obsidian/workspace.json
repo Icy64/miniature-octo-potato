@@ -11,9 +11,11 @@
             "id": "a900ded399b62411",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/Attachments/Pasted image 20231030214510.png"
+                "file": "posts/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Attachments/Pasted image 20231030214510.png",
+                "file": "posts/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Attachments/Pasted image 20231030214510.png",
+                "file": "posts/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Attachments/Pasted image 20231030214510.png"
+                "file": "posts/index.md"
               }
             }
           }
@@ -175,16 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f209965162adad76",
+  "active": "a900ded399b62411",
   "lastOpenFiles": [
-    "posts/Attachments/Excerpt from Mother of All Demos (1968).ogg",
     "posts/discrete human experience graph 2.0.md",
+    "posts/index.md",
+    "posts/Attachments/Pasted image 20231030214510.png",
+    "posts/Attachments/Excerpt from Mother of All Demos (1968).ogg",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.53.13.excalidraw.md",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.48.47.excalidraw.md",
-    "posts/Attachments/Pasted image 20231030214510.png",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.43.17.excalidraw.md",
     "posts/Attachments/Excalidraw",
-    "posts/index.md",
     "posts/Intro to neurosynchronization and rhythm.md",
     "private pages/Attachments/Backlinks.png",
     "private pages/Attachments/Pasted image 10.png",
@@ -221,7 +223,6 @@
     "private pages/Plugins",
     "private pages/Obsidian",
     "private pages/How to",
-    "private pages/Customization",
-    "private pages/Attachments"
+    "private pages/Customization"
   ]
 }
