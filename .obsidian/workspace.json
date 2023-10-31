@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Intro to neurosynchronization and rhythm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Intro to neurosynchronization and rhythm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Intro to neurosynchronization and rhythm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md"
+                "file": "posts/Intro to neurosynchronization and rhythm.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "a900ded399b62411",
   "lastOpenFiles": [
     "posts/index.md",
+    "posts/Intro to neurosynchronization and rhythm.md",
     "private pages/Attachments/Backlinks.png",
     "private pages/Attachments/Pasted image 10.png",
     "private pages/Attachments/Search.png",
@@ -183,7 +184,6 @@
     "private pages/How to/Add custom styles.md",
     "private pages/How to/Manage attachments.md",
     "private pages/How to/Link to blocks.md",
-    "private pages/Plugins/Templates.md",
     "private pages/User interface/Workspace/Panes",
     "private pages/Licenses & add-on services",
     "private pages/User interface/Workspace",
