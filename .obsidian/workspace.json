@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Intro to neurosynchronization and rhythm.md",
+                "file": "posts/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Intro to neurosynchronization and rhythm.md",
+                "file": "posts/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Intro to neurosynchronization and rhythm.md",
+                "file": "posts/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Intro to neurosynchronization and rhythm.md"
+                "file": "posts/index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "a900ded399b62411",
   "lastOpenFiles": [
-    "posts/index.md",
     "posts/Intro to neurosynchronization and rhythm.md",
+    "posts/index.md",
     "private pages/Attachments/Backlinks.png",
     "private pages/Attachments/Pasted image 10.png",
     "private pages/Attachments/Search.png",
