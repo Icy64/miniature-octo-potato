@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/purpose.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md"
+                "file": "posts/purpose.md"
               }
             }
           }
@@ -179,15 +179,17 @@
   },
   "active": "a900ded399b62411",
   "lastOpenFiles": [
-    "posts/discrete human experience graph 2.0.md",
+    "posts/Intro to neurosynchronization and rhythm.md",
     "posts/index.md",
+    "posts/educated simplification.md",
     "posts/Attachments/Pasted image 20231030214510.png",
+    "posts/purpose.md",
+    "posts/discrete human experience graph 2.0.md",
     "posts/Attachments/Excerpt from Mother of All Demos (1968).ogg",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.53.13.excalidraw.md",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.48.47.excalidraw.md",
     "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.43.17.excalidraw.md",
     "posts/Attachments/Excalidraw",
-    "posts/Intro to neurosynchronization and rhythm.md",
     "private pages/Attachments/Backlinks.png",
     "private pages/Attachments/Pasted image 10.png",
     "private pages/Attachments/Search.png",
@@ -214,8 +216,6 @@
     "private pages/How to/Embed files.md",
     "private pages/index.md",
     "private pages/How to/Working with multiple notes.md",
-    "private pages/Licenses & add-on services/Catalyst license.md",
-    "private pages/Plugins/Graph view.md",
     "private pages/User interface/Workspace/Panes",
     "private pages/Licenses & add-on services",
     "private pages/User interface/Workspace",

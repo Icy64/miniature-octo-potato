@@ -1,7 +1,8 @@
 # Welcome
 1. welcome to project clarity.
-2. This is what is sometimes called a digital garden, but I will refer to it as a vault.
-3. This vault helps organize non-linear information the same way the brain automatically does, by association.
+2. the purpose is to standardize clarity in all aspects of life by [[educated simplification]].
+3. This is what is sometimes called a digital garden, but I will refer to it as a vault.
+4. This vault helps organize non-linear information the same way the brain automatically does, by association.
 	1. you should be able to rabbit hole your way around.
 
 [[discrete human experience graph 2.0]]
