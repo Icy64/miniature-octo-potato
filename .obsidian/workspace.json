@@ -11,11 +11,39 @@
             "id": "a900ded399b62411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "posts/index.md",
-                "mode": "source",
-                "source": false
+                "file": "posts/Attachments/Pasted image 20231030214510.png"
+              }
+            }
+          },
+          {
+            "id": "3353b1fa56cee8b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.53.13.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a9999500012f3a06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.48.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1f2a36175a6c990d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.43.17.excalidraw.md"
               }
             }
           }
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Attachments/Pasted image 20231030214510.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Attachments/Pasted image 20231030214510.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md"
+                "file": "posts/Attachments/Pasted image 20231030214510.png"
               }
             }
           }
@@ -143,13 +171,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a900ded399b62411",
+  "active": "f209965162adad76",
   "lastOpenFiles": [
-    "posts/Intro to neurosynchronization and rhythm.md",
+    "posts/Attachments/Excerpt from Mother of All Demos (1968).ogg",
+    "posts/discrete human experience graph 2.0.md",
+    "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.53.13.excalidraw.md",
+    "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.48.47.excalidraw.md",
+    "posts/Attachments/Pasted image 20231030214510.png",
+    "posts/Attachments/Excalidraw/discrete human experience graph 2.0 2023-10-30 21.43.17.excalidraw.md",
+    "posts/Attachments/Excalidraw",
     "posts/index.md",
+    "posts/Intro to neurosynchronization and rhythm.md",
     "private pages/Attachments/Backlinks.png",
     "private pages/Attachments/Pasted image 10.png",
     "private pages/Attachments/Search.png",
@@ -159,7 +195,6 @@
     "private pages/Attachments/Pasted image 5.png",
     "private pages/Attachments/Pasted image 14.png",
     "private pages/Attachments/Pasted image 9.png",
-    "private pages/Attachments/Engelbart.jpg",
     "private pages/Licenses & add-on services/Obsidian Publish.md",
     "private pages/How to/Format your notes.md",
     "private pages/Licenses & add-on services/Obsidian Sync.md",
@@ -179,11 +214,6 @@
     "private pages/How to/Working with multiple notes.md",
     "private pages/Licenses & add-on services/Catalyst license.md",
     "private pages/Plugins/Graph view.md",
-    "private pages/Plugins/Note composer.md",
-    "private pages/Obsidian/Mobile app beta.md",
-    "private pages/How to/Add custom styles.md",
-    "private pages/How to/Manage attachments.md",
-    "private pages/How to/Link to blocks.md",
     "private pages/User interface/Workspace/Panes",
     "private pages/Licenses & add-on services",
     "private pages/User interface/Workspace",
@@ -192,7 +222,6 @@
     "private pages/Obsidian",
     "private pages/How to",
     "private pages/Customization",
-    "private pages/Attachments",
-    "private pages/Concepts"
+    "private pages/Attachments"
   ]
 }
