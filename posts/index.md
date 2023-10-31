@@ -20,4 +20,7 @@ at all times we exist on a point along this line.
 Now what?
 # Important topics
 [[Intro to neurosynchronization and rhythm]]
+
 [[Interpersonal neurological synchronization for the purpose of clarity]]
+
+[[our purpose as people]]
