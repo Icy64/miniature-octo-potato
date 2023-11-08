@@ -14,6 +14,9 @@ so some object contains clear inducing traits and behaviors. they are contained 
 - confidence and logic are related. confidence is based in logic.
 - perception resides in the v realm, we are simply "plugged in" to the w-realm.
 	- the w-realm is short form for normal 3+1 dimensional reality
+- all things are connected inside the v realm
+	- all things behave like a gas, and fill up space on the walls of a container
+	- air and lack of eyesight also can act as a wall
 - holes exist, similar to blackholes and perfect vacuums.
 - the blackhole punctures the system. same with the v-realm analogy
 	- a blackhole would be called a "super-brain"
