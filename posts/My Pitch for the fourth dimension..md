@@ -16,14 +16,20 @@ so some object contains clear inducing traits and behaviors. they are contained 
 	- the w-realm is short form for normal 3+1 dimensional reality
 - all things are connected inside the v realm
 	- all things behave like a gas, and fill up space on the walls of a container
+	- think of the brain as a vessel where "logic gas" fills up inside.
+	- think of a single transistor as a vessel where "logic gas" fills up inside.
 	- air and lack of eyesight also can act as a wall
 - holes exist, similar to blackholes and perfect vacuums.
 - the blackhole punctures the system. same with the v-realm analogy
 	- a blackhole would be called a "super-brain"
 	- a perfect vacuum would be called a "super-wall"
-- a super-brain would induce clarity to its enviroment so much that the system wouldn't know what to do.
+- a super-brain would induce clarity to its environment so much that the system wouldn't know what to do.
 	- what happens when we reach clarity level 100.0000000000001?
-- therefore the system requires a deity. an all powerful being that can decide.
+- <insert everything everywhere all at once/>
+	- parrellel universes, fantasy, scp, you name it, all of which lead to not clarity level 100.000001 ultimately when processed out.
+	- so a singularity occurs.
+	- we definetly exist in this reality, so this one is most stable. consistently.
+- therefore the system requires a ultimate deity. an all powerful being that decides and rules over realities.
 	- allah or god must exist.
 	- islam is the scientific religion focused on inducing clarity at minimal expense.
 - a super-brain can take everyone to jannah if they don't mind.
