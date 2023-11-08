@@ -21,9 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "My Pitch for the fourth dimension..md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1daacff62c2686",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/My Pitch for the fourth dimension. 2023-11-08 09.02.53.excalidraw.md"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "My Pitch for the fourth dimension..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "My Pitch for the fourth dimension..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "My Pitch for the fourth dimension..md"
               }
             }
           }
@@ -158,8 +168,11 @@
   },
   "active": "1eca90d5f6b067b7",
   "lastOpenFiles": [
-    "our purpose as people.md",
-    "Untitled.md",
-    "index.md"
+    "Excalidraw/My Pitch for the fourth dimension. 2023-11-08 09.02.53.excalidraw.md",
+    "My Pitch for the fourth dimension..md",
+    "Excalidraw/My Pitch for the fourth dimension. 2023-11-08 08.55.51.excalidraw.md",
+    "Excalidraw",
+    "index.md",
+    "our purpose as people.md"
   ]
 }
